@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Experience
 
-You can use the [editor on GitHub](https://github.com/EdgarMtz00/EdgarMtz00.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Software Engineer @[Gray Wolf](graywolf.co)
+August 2021 - Present
+- Experience through the full software development lifecycle in Shopify.
+- In charge of implementing new features related to clients' store, such as modified pages, structure, integrating with third-party systems, updating third-party Apps configuration or behavior.
+- Recommend solutions about UI design, scripting, and import/export data.
+- Has participated in projects migration from Magento platform to Shopify.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Pineda Covalin US Website @[Pineda Covalin](https://pinedacovalin.us/)
+March 2022 – Present
 
-### Markdown
+Full migration of products, orders and customers from magento to shopify.
+Develop shopify apps to expand and automatiza the website functionalities.
+### Technologies used:
+- **JavaScript**
+- **Node**
+- **Sass**
+- **Liquid**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## BoatHouse Website @[Boathouse](https://www.boathouse.com/)
+August 2021 – Present
 
-# Header 1
-## Header 2
-### Header 3
+Front end development, focused on enhancing webstie’s UX/UI.
+### Technologies used:
+- **JavaScript**
+- **Node**
+- **Sass**
+- **Liquid**
 
-- Bulleted
-- List
+## Back End Developer @Creártelo 
+February 2021 – March 2021
 
-1. Numbered
-2. List
+- Create application views with Laravel's own templating language. 
+- Review and fix pages responsiveness.
+- Rest API development with Laravel for governmental tourism pages.
 
-**Bold** and _Italic_ and `Code` text
+## Java Developer @Freelancing IVR Systems Development 
+May 2020 – June 2021
 
-[Link](url) and ![Image](src)
-```
+- Based on the design provided, implement UI with Bootstrap, JQuery, and Angular. Propose improvements related to IVR responses and for ease of use to phone operators.
+- Design call flows for IVR systems using Cisco UCCX software and developed web services using Java EE or Spring 4.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Back End Developer @Software Solutions Company
+September 2019 – February 2020
 
-### Jekyll Themes
+- Rest API development with CakePHP and Laravel for 3 websites.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EdgarMtz00/EdgarMtz00.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Education
+## CUCEI (Guadalajara University)
+Computer Engineering
+January 2020 - Current
 
-### Support or Contact
+# Skills 
+## Technologies
+Java, Phyton, PHP, JavaScript, Spring, Django, Pyramid, Laravel, CakePHP, jQuery, Rust, Ruby, Angular, Express, Bootstrap.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Soft Skills
+- Team player
+- Effective communication
+- Hard worker
+- Problem solver
+- Integral
+- Adaptive
+
+## Achievements
+Talent Land Bosch Hackaton Finalist
